@@ -26,4 +26,4 @@ modulo(34,5)
 def square_root(num)
   sqt=num1**num2
 end
-square_root()
+square_root(82,2)
