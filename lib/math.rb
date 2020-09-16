@@ -16,10 +16,12 @@ division(50,2)
 def multiplication(num1, num2)
   mult=num1*num2
 end
-multiplication()
-def modulo(num1, num2)
+multiplication(4,30)
 
+def modulo(num1, num2)
+ mod=num1%num2
 end
+modulo()
 
 def square_root(num)
 
