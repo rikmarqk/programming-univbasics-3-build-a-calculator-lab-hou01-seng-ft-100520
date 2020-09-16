@@ -1,6 +1,6 @@
 def addition(num1, num2)
   sum=#{num1}+#{num2}
-  puts sum.to_i
+  return sum
 end
 addition(4,5)
 
